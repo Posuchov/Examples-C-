@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sqcQZ7oBhOj+M3kszsA/Lv0qlZoWNp1z0w8NdHDObpznuDdquo8u3raogJrAbiK8hg4afGit4kfc+cv3PrLZRQ==",
+  "dgSpecHash": "B2zfSL1E8j2aHr7YMkZUit1Eg4ZqZoBuxC2ANsjCJ2i+bp7buUKeQb+uUNkiQYuCr7TdQ3BjXeV9ZbA2WFDKIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Examples C#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\posuc\\OneDrive\\Desktop\\GeekBrains_4490\\Examples-C-\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
