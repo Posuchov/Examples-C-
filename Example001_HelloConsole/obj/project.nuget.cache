@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B2zfSL1E8j2aHr7YMkZUit1Eg4ZqZoBuxC2ANsjCJ2i+bp7buUKeQb+uUNkiQYuCr7TdQ3BjXeV9ZbA2WFDKIw==",
+  "dgSpecHash": "7xBxDKUTZbQb4s4sau/gfWqdMdn1HSIXNYfSA2TSR4a62yu07nOJz/hAuYmUBC//2/jrteK9/JBNrp3njuQy8g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\posuc\\OneDrive\\Desktop\\GeekBrains_4490\\Examples-C-\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\posuc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\posuc\\OneDrive\\Desktop\\GeekBrains_4490\\Examples-C-\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
