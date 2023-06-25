@@ -38,7 +38,7 @@ int Year = Method3(); // вызов метода, указываем имя ил
 Console.WriteLine(Year); // используем переменнную и то значение которое вернул метод
 
 // Вид метода 4 - метод принимает аргументы, и что-то возвращает.
-int Method4(int count, string txt)
+string Method4(int count, string txt)
 {
     int i = 0;
     string result = String.Empty;
@@ -50,5 +50,5 @@ int Method4(int count, string txt)
     }
     return result;
 }
-string res = Method4(10, "abcdefg");
+string res = Method4(5, " abcdefg ");
 Console.WriteLine(res);
